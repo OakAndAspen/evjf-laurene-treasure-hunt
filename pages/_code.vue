@@ -59,6 +59,7 @@ export default {
                 }
             });
         if (!post) return;
+        console.log(post);
 
         if (post.enigma) {
             enigma = await this.$content('enigmas', post.enigma)
