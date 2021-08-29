@@ -4,9 +4,9 @@ export default {
 
     // Global page headers: https://go.nuxtjs.dev/config-head
     head: {
-        title: 'evjf-laurene-treasure-hunt',
+        title: 'Chasse au trésor EVJF Laurène',
         htmlAttrs: {
-            lang: 'en'
+            lang: 'fr'
         },
         meta: [
             {charset: 'utf-8'},

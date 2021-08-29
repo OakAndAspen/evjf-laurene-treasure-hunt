@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+@font-face {
+    font-family: "Booter";
+    src: url("../fonts/Booter.ttf")
+}
+
+@font-face {
+    font-family: "Caligraf 1435";
+    src: url("../fonts/Caligraf1435.ttf")
+}
+
+
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+.font-caligraf {
+    font-family: 'Caligraf 1435', cursive;
+}
+
+.font-booter {
+    font-family: 'Booter', cursive;
+}
