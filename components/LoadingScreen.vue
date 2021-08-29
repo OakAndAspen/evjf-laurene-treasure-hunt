@@ -44,9 +44,3 @@ export default {
     }
 }
 </script>
-
-<style scoped>
-#LoadingScreen {
-    background-color: #EACC90;
-}
-</style>
