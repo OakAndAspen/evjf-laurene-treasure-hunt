@@ -11,5 +11,8 @@ html {
 }
 
 html {
-    background-color: rgb(var(--evjf-beige));
+    background-image: url('../images/parchment.png');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
 }

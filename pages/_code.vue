@@ -2,23 +2,32 @@
     <div>
         <!-- Statut 0 - Les données ne sont pas encore chargées - On affiche un spinner de chargement -->
         <LoadingScreen v-if="status === 0"/>
+
         <!-- Statut 1 - L'énigme n'est pas encore résolue - On montre le contenu de l'énigme,
         un champ pour entrer la réponse si nécessaire et un bouton -->
         <div v-if="status > 0 && status < 3" class="container py-4">
             <h1 class="font-booter text-center my-4">{{ post.title }}</h1>
-            <nuxt-content :document="enigma"/>
-            <form v-if="enigma.answer">
-                <input v-model="answer"
-                       class="form-control form-control-lg my-4"
-                       placeholder="Entrez la réponse ici...">
-                <!-- Statut 2 - La réponse est fausse - Un message s'affiche -->
-                <div v-if="status === 2" class="alert alert-danger">{{wrongAnswerMessages[wrongAnswerIndex]}}</div>
-                <button class="btn btn-info w-100"
-                        @click.stop.prevent="onSubmit()">
-                    Envoyer
-                </button>
-            </form>
+            <div v-if="enigma">
+                <nuxt-content :document="enigma"/>
+                <form v-if="enigma.answer" id="EnigmaForm">
+                    <input v-model="answer"
+                           class="form-control form-control-lg my-4 text-center"
+                           placeholder="Entrez la réponse ici...">
+                    <!-- Statut 2 - La réponse est fausse - Un message s'affiche -->
+                    <div v-if="status === 2"
+                         class="alert alert-danger text-center">
+                        {{ wrongAnswerMessages[wrongAnswerIndex] }}
+                    </div>
+                    <button class="btn btn-info w-100"
+                            @click.stop.prevent="onSubmit()">
+                        Envoyer
+                    </button>
+                </form>
+            </div>
+            <nuxt-content :document="post" v-if="!enigma"/>
+
         </div>
+
         <!-- Statut 3 - La réponse est juste - Tout disparaît, on affiche le contenu du poste -->
         <div v-if="status === 3" class="container py-4">
             <h1 class="font-booter text-center my-4">Bonne réponse!</h1>
@@ -59,7 +68,6 @@ export default {
                 }
             });
         if (!post) return;
-        console.log(post);
 
         if (post.enigma) {
             enigma = await this.$content('enigmas', post.enigma)
@@ -96,3 +104,12 @@ export default {
     }
 }
 </script>
+
+<style>
+
+#EnigmaForm button {
+    background-color: rgb(var(--evjf-beige));
+    border-color: rgb(var(--evjf-beige));
+}
+
+</style>
