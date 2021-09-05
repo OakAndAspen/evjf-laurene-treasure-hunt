@@ -13,11 +13,10 @@ Vous arrivez dans le fameux petit village de contrebandiers, avec cinq maisons a
 7. Celui qui fait de la contrebande de whiskey a un drapeau qui représente deux sabres croisés.
 8. L'habitant de la maison du centre a un crochet à la place de la main droite.
 9. Jack vit dans la première maison.
-10. La personne qui fait de la contrebande de rhum vit à côté de celui qui a un tatouage de chat.
-11. La personne qui a un tatouage de cheval vit à côté de celui qui fait de la contrebande de whiskey.
+10. La personne qui fait de la contrebande de rhum vit à côté de celle qui a un tatouage de chat et une jambe de bois.
+11. La personne qui a un tatouage de cheval vit à côté de celle qui fait de la contrebande de whiskey.
 12. La personne qui fait de la contrebande de pierres précieuses porte une perruque.
 13. John fait de la contrebande de cannabis.
 14. Jack vit à côté de la maison dont le drapeau représente une figure de proue.
-15. La personne qui fait de la contrebande de rhum a un voisin qui a une jambe de bois.
 
 À qui appartient la tortue ?
