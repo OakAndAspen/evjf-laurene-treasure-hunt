@@ -10,4 +10,4 @@ Au début, vous ne trouvez pas grand chose. À la taverne, en écoutant parler d
 
 En sortant de la taverne, une femme vous approche:
 
-*" Vous avez l'air d'avoir pris un bon bain salé, vous! J'ai vu d'autres gamines comme vous se balader dans le coin. Je crois qu'elles ont dit qu'elles voulaient se retrouver à la croisée des chemins entre les deux villages. Alors, ça fait un petit bout depuis ici, mais il vous suffit de prendre la route qui monte vers le nord-ouest et de la suivre jusqu'au bout ! "*
+*" Vous avez l'air d'avoir pris un bon bain salé, vous! J'ai vu d'autres gamines comme vous se balader dans le coin. Je crois qu'elles ont dit qu'elles voulaient se retrouver à la Croisée, c'est une intersection entre deux routes, plus au nord. Si vous voulez mon avis c'est pas une bonne idée, y'a beaucoup d'embuscades de brigands par là bas. Mais si vous voulez y aller, le mieux, c'est de prendre la route qui part plein nord depuis le village, celle où y'a une poubelle. Allez tout droit, en choisissant plutôt la droite quand vous en avez l'option, et vous arriverez vers quelqu'un qui saura vous guider pour le dernier bout."*

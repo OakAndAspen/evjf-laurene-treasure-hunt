@@ -10,4 +10,4 @@ Au début, vous ne trouvez pas grand chose. À la taverne, en écoutant parler d
 
 En sortant de la taverne, une femme vous approche :
 
-*" Vous avez l'air d'avoir pris un bon bain salé, vous! J'ai vu d'autres gamines comme vous se balader dans le coin. Je crois qu'elles ont dit qu'elles voulaient se retrouver à la croisée des chemins entre les deux villages. C'est pas loin d'ici du tout, vous continuez dans la même direction où vous alliez, et vous y êtes dans cinq minutes! "*
+*" Vous avez l'air d'avoir pris un bon bain salé, vous! J'ai vu d'autres gamines comme vous se balader dans le coin. Je crois qu'elles ont dit qu'elles voulaient se retrouver à la Croisée. C'est pas loin d'ici du tout, vous prenez la route qui monte du même côté du village que le petit chemin par lequel vous êtes venues, et vous y serez dans cinq minutes! "*

@@ -9,4 +9,4 @@ Soulagées, vous demandez à votre capitaine ce qu'il y avait dans ce coffre pou
 
 Elle sourit, ouvre le coffre et fait:
 
-*"Vu les circonstances, je crois qu'on pourra se partager le contenu..."*
+*"Vu les circonstances, je crois qu'on pourra se partager le butin..."*

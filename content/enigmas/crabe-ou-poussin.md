@@ -2,7 +2,7 @@
 
 ---
 
-Vous vous retrouvez à une fourche sans savoir où aller. Une vielle femme est assise au milieu et vous propose de lire votre avenir. 
+Vous vous retrouvez à une fourche sans savoir où aller. Une vieille femme est assise au milieu et vous propose de lire votre avenir. 
 
 *"Je connais la grande question qui vous turlupine"*, dit-elle. *"Devriez-vous suivre le crabe ou le poussin? La réponse à cette question ne dépend que de vous. Ce jeu de divination fera apparaître votre destin."*
 
