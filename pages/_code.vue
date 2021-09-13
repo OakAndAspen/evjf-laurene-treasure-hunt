@@ -25,13 +25,18 @@
                 </form>
             </div>
             <nuxt-content :document="post" v-if="!enigma"/>
-
+            <hr/>
+            <hr/>
+            <hr/>
         </div>
 
         <!-- Statut 3 - La réponse est juste - Tout disparaît, on affiche le contenu du poste -->
-        <div v-if="status === 3" class="container py-4" style="margin-bottom: 100px;">
+        <div v-if="status === 3" class="container py-4">
             <h1 class="font-booter text-center my-4">Bonne réponse!</h1>
             <nuxt-content :document="post"/>
+            <hr/>
+            <hr/>
+            <hr/>
         </div>
     </div>
 </template>
